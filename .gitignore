@@ -1,0 +1,9 @@
+data/*.db
+data/*.html
+data/*.json
+__pycache__/
+.venv/
+*.pyc
+.DS_Store
+.github_token
+.env
